@@ -1,0 +1,16 @@
+iteration: 8 
+Hidden: 24 
+Lr: 1.000000e-04 
+batch: 32 
+
+Accuracy of T-shirt/top : 95 % 
+Accuracy of Trouser : 97 % 
+Accuracy of Pullover : 89 % 
+Accuracy of Dress : 92 % 
+Accuracy of  Coat : 89 % 
+Accuracy of Sandal : 98 % 
+Accuracy of Shirt :  0 % 
+Accuracy of Sneaker : 99 % 
+Accuracy of   Bag : 98 % 
+Accuracy of Ankle boot :  0 % 
+overall: 76.04333333333334
